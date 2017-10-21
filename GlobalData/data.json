@@ -1,0 +1,35 @@
+{
+    "testSiteURL": "https://www.yahoo.com/",
+    "title_yahoo":"Yahoo",
+
+    "LoginPage" :{
+
+        "loginPageContainURL_login": "login" ,
+        "userName": "harsh1234",
+        "password": "1234567",
+        "loginLanding": "login"
+
+    },
+
+    "passwordPage":{
+
+    },
+
+    "Alamim" :{
+        "qa":"https://www.yahoo.com/",
+        "userName":"",
+        "password":""
+
+    },
+    "Harsh" :{
+        "userName":"https://www.yahoo.com/",
+        "password":""
+    },
+
+
+
+
+
+
+
+}
